@@ -6,6 +6,7 @@ Target-centric models (TCM) develop over CHEMBL database.
 
 ```
 +-- TCM
+|    +-- data
 |    +-- SCALE
 |        +-- DSC
 |        +-- FUS
