@@ -42,6 +42,8 @@ Files:
 * '253TCM.csv'.- List of targets and their codes used for modeling TCM.
     + ﻿TARGET_ID.- Target ID
     + UNIPROT_ID.- Uniprot ID
+ 
+
 Directories
 
 * '/data'.- Clean data for the CHEMBL releases 27, 28 and 31.
