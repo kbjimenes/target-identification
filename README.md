@@ -60,7 +60,7 @@ This repository provides an official implementation of 253 Target-centric models
 
 # Datasets
 
-CHEMBL 27, 28 and 31 releases were extracted and clean to get reliable data about interactions between compound and targets of HomoSapiends. These data was also used to train and test the 253 TCM. 
+CHEMBL 27, 28 and 31 releases were extracted and clean to get reliable data about interactions between compound and targets of HomoSapiends. These data was also used to train and test the 253 models. 
 
 # Target-centric model (TCM)
 
