@@ -1,6 +1,6 @@
 # About
 
-Target-centric models (TCM) develop over CHEMBL database.
+This repository provides an official implementation of 253 Target-centric models (TCM) develop over CHEMBL database.
 
 # File structure
 
@@ -54,4 +54,4 @@ Target-centric models (TCM) develop over CHEMBL database.
 Please check the article (It will be available soon).
 
 # Credit/Acknowledgment
-Copyright @ Universidad de las Américas & Universidad da Coruña
+This research was supported by Universidad de las Américas & Universidad da Coruña
