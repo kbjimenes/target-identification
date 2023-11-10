@@ -16,23 +16,9 @@ This repository provides an official implementation of 253 Target-centric models
 |            +-- DSC
 |    +-- MODELS
 |        +-- FGP
-|            +-- DTREE
-|            +-- GM
-|            +-- KNN
-|            +-- RF
-|            +-- SVM
 |        +-- DSC
-|            +-- DTREE
-|            +-- GM
-|            +-- KNN
-|            +-- RF
-|            +-- SVM
 |        +-- FUS
-|            +-- DTREE
-|            +-- GM
-|            +-- KNN
-|            +-- RF
-|            +-- SVM
++--
 ```
 
 # Requirements
